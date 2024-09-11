@@ -1,5 +1,5 @@
 
-# TRUTH-MATRIX
+# TRUTH-MATRIX 📰
 
 Truth Matrix is a robust AI-ML model for detecting fake news 📉, trained on a comprehensive dataset of global 🌍 and Indian 🇮🇳 news articles. It leverages a combination of XGBoost 📈, logistic regression 🔍, and Naive Bayes 📊, predicting based on voting their predictions. By analyzing text features with a TF-IDF vectorizer 🧩, it provides reliable classification of news articles to help counteract misinformation 🚫📰.
 
