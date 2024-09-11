@@ -1,14 +1,18 @@
-news1)      "Global Climate Summit Announces New Environmental Initiatives" - September 20, 2024 At the Global Climate Summit held in Paris, leaders from around the world have announced several new environmental initiatives aimed at combating climate change. The initiatives include increased funding for renewable energy projects, stricter regulations on carbon emissions, and global partnerships to protect endangered ecosystems. The summit emphasized the importance of immediate action to address the growing climate crisis.
+News1)      "Global Climate Summit Announces New Environmental Initiatives" - September 20, 2024 At the Global Climate Summit held in Paris, leaders from around the world have announced several new environmental initiatives aimed at combating climate change. The initiatives include increased funding for renewable energy projects, stricter regulations on carbon emissions, and global partnerships to protect endangered ecosystems. The summit emphasized the importance of immediate action to address the growing climate crisis.
 
 
-news2)
+
+News2)
             "Breakthrough in Cancer Research: New Drug Shows Promising Results" - September 18, 2024 Researchers at Johns Hopkins University have unveiled a new drug, named "OncoRelief," which has shown promising results in treating advanced stages of breast cancer. The drug targets specific cancer cells with minimal side effects. Clinical trials have demonstrated a significant improvement in patient outcomes, and the drug is expected to be available for broader use within the next year.
 
 
-news3)
+
+News3)
             "New Electric Vehicle Battery Technology Boosts Range by 50%" - September 15, 2024 A major automotive company has announced a breakthrough in electric vehicle (EV) battery technology. The new battery, developed in partnership with leading researchers, offers a 50% increase in driving range compared to current models. This advancement is expected to make EVs more practical for long-distance travel and contribute to the shift toward sustainable transportation.
 
-news4)
+
+
+News4)
              The Evolution of Space Exploration: From the Moon Landing to the Mars Mission
 
 Over the past several decades, space exploration has transitioned from a bold dream into an intricate reality, shaping our understanding of the cosmos and expanding the frontiers of human capability. This journey, which began with the historic Apollo Moon landings, has evolved into ambitious missions aimed at uncovering the mysteries of Mars and beyond. In this article, we trace the major milestones of space exploration, from the early achievements of the Space Race to the cutting-edge technologies driving current missions.
@@ -46,10 +50,10 @@ News 5)
       EXCLUSIVE: GTA VI has been internally delayed by Rockstar Games and they’re already decided on the early to mid 2026 release window.  PC is planned for around 12 - 18 months after the console launch.  This information comes from multiple devs across two studios
 
 
-before : using logistics classification only
+using logistics classification only
             got 3/5 correct
-after : using Xgboost + logistics 
+using Xgboost + logistics 
             got 4/5 correct
-        using Logistics+Xgboost+Naive_bayes
+using Logistics+Xgboost+Naive_bayes
             got 5/5 correct
 
