@@ -1,15 +1,15 @@
-test(small)
+test(small-5 sample size)
 Logistics+XG=75%
 Logistics+XG+NB=100%
 LG=50%
 
-test(large)
+test(large-10 sample size)
 Logistics+XG=80%
 Logistics+XG+NB=90%
 LG=90%
 
 
-overall(combined):
+overall(combined-15 sample size):
 
 Logistics+XG=80%
 Logistics+XG+NB=93%
