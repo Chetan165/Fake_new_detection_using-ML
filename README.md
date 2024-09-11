@@ -1,7 +1,7 @@
 
 # TRUTH-MATRIX 📰
 
-Truth Matrix is a robust AI-ML model for detecting fake news 📉, trained on a comprehensive dataset of global 🌍 and Indian 🇮🇳 news articles. It leverages a combination of XGBoost 📈, logistic regression 🔍, and Naive Bayes 📊, predicting based on voting their predictions. By analyzing text features with a TF-IDF vectorizer 🧩, it provides reliable classification of news articles to help counteract misinformation 🚫📰.
+Truth Matrix is a robust AI-ML model for detecting fake news 📉, trained on a comprehensive dataset of global 🌍 and Indian 🇮🇳 news articles. It leverages a combination of XGBoost 📈, logistic regression 🔍, and Naive Bayes 📊, predicting based majority voting. By analyzing text features with a TF-IDF vectorizer 🧩, it provides reliable classification of news articles to help counteract misinformation 🚫📰.
 
 
 ## Team
@@ -21,7 +21,7 @@ Email : prathamvarma178@gmail.com
 
 ## Model Deployment
 
-Checkout our website : [here](https://fakenewdetectionusing-ml-me2evi96sebrcvuqmpbmvp.streamlit.app/)
+Checkout our website 🌐 [here](https://fakenewdetectionusing-ml-me2evi96sebrcvuqmpbmvp.streamlit.app/)
 Checkout Google Collab for quick analysis:<br>[open file on colab 📂](https://colab.research.google.com/drive/1DLYD47gZS3bvb-T1Lmpb4M_zGWHgK_az?usp=sharing)<br>
 [click to open statistics of our model 📈](https://colab.research.google.com/drive/1_7Tu8JmxeUVacG1OP6e_-p54-lE9bvIV?usp=sharing)                               
 [click to view performance of different implementations 📊](https://colab.research.google.com/drive/1r7xvbge1FC3lmPizH9Q7CdFoFBbgwURH?usp=sharing)<br><br>
