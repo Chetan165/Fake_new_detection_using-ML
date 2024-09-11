@@ -46,11 +46,27 @@ def manual(user_input):
   
 
 def main():
-   st.set_page_config(page_title="The Truth Matrix", page_icon="📰", layout="wide")
-   st.title("WELCOME TO THE TRUTH MATRIX \n\n")
-   st.write("🔍 How does this work?\nOur Fake News Detection tool is powered by a combination of cutting-edge machine learning models \nand natural language processing techniques. 🧠 We take in the news headline or article you \nprovide, break it down into features using the TF-IDF vectorizer, and then pass it through a trained \nLogistic Regression model and XGBoost for accurate prediction. 🚀 Whether it's Indian news or global \nupdates, our model has been fine-tuned to spot potential misinformation with \nimpressive accuracy. 📊 Just input your text, and in seconds, you'll know if it's likely real or fake! ✅")
-   st.write("just paste your news article in the box below to know whether its fake or real \n")
-   user_input=st.text_input('paste the article : ')
+  import streamlit as st
+  st.set_page_config(page_title="The Truth Matrix", page_icon="📰", layout="wide")
+  st.title("📰 Welcome to The Truth Matrix")
+  st.markdown("""
+  ### 🔍 How Does This Work?
+  Our **Fake News Detection Tool** combines advanced **Machine Learning** models and **Natural Language Processing** techniques to accurately identify fake news.
+
+  Here's how it works:
+   - 🧠 We analyze the news headline or article you provide.
+   - ⚙️ The text is transformed into features using the **TF-IDF Vectorizer**.
+   - 🛠️ The features are processed by **Logistic Regression**, **XGBoost**, and **Naive Bayes** models.
+   - 🔗 These models work together using **Majority Voting** to give you the final prediction.
+
+   Whether it's **Indian news** or **global updates**, our ensemble model is fine-tuned to spot potential misinformation with **high accuracy**. Paste your article below, and in seconds, you'll know if it's likely **real or fake**!
+   """)
+  st.markdown("""
+  ### 📝 Paste Your News Article Below:
+  Get an instant prediction on whether it's fake or real!
+  """)
+  user_input = st.text_input('Paste the article:')
+
 
    prediction=''
     
