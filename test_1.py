@@ -66,17 +66,13 @@ def main():
   Get an instant prediction on whether it's fake or real!
   """)
   user_input = st.text_input('Paste the article:')
-
-
-   prediction=''
-    
-   if st.button("click to know truth "):
-      ans=manual(user_input)
-      if(ans==0):
-        prediction="news is REAL"
-      else:
-        prediction="news might be FAKE"
-       
-   st.success(prediction)
+  prediction=''
+  if st.button("click to know truth "):
+     ans=manual(user_input)
+     if(ans==0):
+       prediction="news is REAL"
+     else:
+       prediction="news might be FAKE"
+  st.success(prediction)
 if __name__=='__main__':
    main()
