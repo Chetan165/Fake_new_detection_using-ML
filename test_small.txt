@@ -1,0 +1,55 @@
+news1)      "Global Climate Summit Announces New Environmental Initiatives" - September 20, 2024 At the Global Climate Summit held in Paris, leaders from around the world have announced several new environmental initiatives aimed at combating climate change. The initiatives include increased funding for renewable energy projects, stricter regulations on carbon emissions, and global partnerships to protect endangered ecosystems. The summit emphasized the importance of immediate action to address the growing climate crisis.
+
+
+news2)
+            "Breakthrough in Cancer Research: New Drug Shows Promising Results" - September 18, 2024 Researchers at Johns Hopkins University have unveiled a new drug, named "OncoRelief," which has shown promising results in treating advanced stages of breast cancer. The drug targets specific cancer cells with minimal side effects. Clinical trials have demonstrated a significant improvement in patient outcomes, and the drug is expected to be available for broader use within the next year.
+
+
+news3)
+            "New Electric Vehicle Battery Technology Boosts Range by 50%" - September 15, 2024 A major automotive company has announced a breakthrough in electric vehicle (EV) battery technology. The new battery, developed in partnership with leading researchers, offers a 50% increase in driving range compared to current models. This advancement is expected to make EVs more practical for long-distance travel and contribute to the shift toward sustainable transportation.
+
+news4)
+             The Evolution of Space Exploration: From the Moon Landing to the Mars Mission
+
+Over the past several decades, space exploration has transitioned from a bold dream into an intricate reality, shaping our understanding of the cosmos and expanding the frontiers of human capability. This journey, which began with the historic Apollo Moon landings, has evolved into ambitious missions aimed at uncovering the mysteries of Mars and beyond. In this article, we trace the major milestones of space exploration, from the early achievements of the Space Race to the cutting-edge technologies driving current missions.
+
+The Dawn of Space Exploration
+The era of modern space exploration began in the 1960s with the intense competition of the Space Race between the United States and the Soviet Union. The launch of Sputnik 1 by the Soviet Union in 1957 marked the first artificial satellite to orbit the Earth, heralding a new age of technological and scientific discovery. This landmark event catalyzed the United States to accelerate its own space program, leading to the formation of NASA in 1958.
+
+In 1961, President John F. Kennedy's bold proclamation of landing a man on the Moon before the decade's end set the stage for one of humanity's greatest achievements. The Apollo program, spearheaded by NASA, culminated in the historic Apollo 11 mission, which saw astronauts Neil Armstrong and Edwin "Buzz" Aldrin set foot on the lunar surface on July 20, 1969. The Moon landing was a testament to human ingenuity and the ability to overcome seemingly insurmountable challenges.
+
+Post-Moon Era: Space Shuttle and International Collaboration
+Following the initial excitement of the Moon landings, the focus of space exploration shifted toward the development of reusable spacecraft. The Space Shuttle program, launched in 1981, aimed to provide a cost-effective means of transporting astronauts and cargo to low Earth orbit. The Space Shuttle fleet played a crucial role in assembling and servicing the International Space Station (ISS), a collaborative effort involving space agencies from the United States, Russia, Europe, Japan, and Canada.
+
+The ISS, continuously inhabited since 2000, has served as a microgravity laboratory for scientific research and technological development. It has facilitated groundbreaking experiments in fields such as materials science, biology, and astronomy, providing valuable insights into the effects of long-term spaceflight on the human body.
+
+The New Frontier: Mars Exploration
+As space agencies and private companies alike turned their attention to Mars, a new chapter in space exploration began. Mars, with its potential for past or present life and its proximity to Earth, became a primary target for exploration. NASA's Mars rover missions have significantly advanced our understanding of the Red Planet's geology, climate, and potential for habitability.
+
+The Mars Curiosity rover, which landed on Mars in August 2012, has been instrumental in studying the planet's surface and atmosphere. Curiosity's findings, including evidence of ancient water flow, have provided crucial insights into Mars' past environment and its potential to support life. Following Curiosity, the Perseverance rover, which landed in February 2021, continues to explore Mars' Jezero Crater, searching for signs of ancient microbial life and collecting samples for future return missions.
+
+In addition to NASA's efforts, international collaboration and private sector involvement have accelerated Mars exploration. SpaceX, founded by Elon Musk, has made significant strides with its Starship spacecraft, designed for deep space missions and interplanetary travel. SpaceX's ambitious plans include sending humans to Mars within the next decade, aiming to establish a sustainable human presence on the Red Planet.
+
+Future Prospects and Challenges
+Looking ahead, space exploration faces both exciting opportunities and formidable challenges. The pursuit of lunar bases, asteroid mining, and interstellar travel represents the next frontier in human space exploration. The Artemis program, led by NASA, aims to return humans to the Moon and establish a sustainable presence by the mid-2020s. This initiative will serve as a stepping stone for future missions to Mars and beyond.
+
+As we push the boundaries of space exploration, technological advancements will play a crucial role in overcoming challenges related to spacecraft design, life support systems, and radiation protection. The development of advanced propulsion systems, such as nuclear thermal or ion propulsion, will be essential for long-duration space missions and the exploration of distant celestial bodies.
+
+Conclusion
+The evolution of space exploration has been marked by remarkable achievements and continuous advancements. From the historic Moon landings to the ongoing Mars missions, humanity's journey into space reflects our innate curiosity and determination to explore the unknown. As we look to the future, the quest for knowledge and the desire to extend our reach beyond Earth will continue to drive innovation and inspire future generations.
+
+Space exploration is not merely about reaching new frontiers; it is a testament to our collective spirit of discovery and our quest to understand our place in the universe. As we embark on the next era of space exploration, we carry forward the legacy of those who dared to dream and ventured into the vast expanse of space.
+
+
+
+News 5)
+      EXCLUSIVE: GTA VI has been internally delayed by Rockstar Games and they’re already decided on the early to mid 2026 release window.  PC is planned for around 12 - 18 months after the console launch.  This information comes from multiple devs across two studios
+
+
+before : using logistics classification only
+            got 3/5 correct
+after : using Xgboost + logistics 
+            got 4/5 correct
+        using Logistics+Xgboost+Naive_bayes
+            got 5/5 correct
+

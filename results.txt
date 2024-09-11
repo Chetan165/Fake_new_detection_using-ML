@@ -1,0 +1,17 @@
+test(small)
+Logistics+XG=75%
+Logistics+XG+NB=100%
+LG=50%
+
+test(large)
+Logistics+XG=80%
+Logistics+XG+NB=90%
+LG=90%
+
+
+overall(combined):
+
+Logistics+XG=80%
+Logistics+XG+NB=93%
+LG=80%
+
