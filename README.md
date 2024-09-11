@@ -22,7 +22,9 @@ Email : prathamvarma178@gmail.com
 ## Model Deployment
 
 Checkout our website here : [link comes here]  
-Checkout Google Collab for quick analysis : [link comes here]
+Checkout Google Collab for quick analysis : [open file on colab](https://colab.research.google.com/drive/1DLYD47gZS3bvb-T1Lmpb4M_zGWHgK_az?usp=sharing) 
+                                            [click to open statistics of our model](https://colab.research.google.com/drive/1_7Tu8JmxeUVacG1OP6e_-p54-lE9bvIV?usp=sharing)
+                                            [click to view performance of different implementations](https://colab.research.google.com/drive/1r7xvbge1FC3lmPizH9Q7CdFoFBbgwURH?usp=sharing)
 Checkout the ppt for better understanding : [link comes here]
 
 
