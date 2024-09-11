@@ -1,4 +1,4 @@
-model test:
+Model test(LR+XG+Naive_bayes):
 
 
 news 1)
