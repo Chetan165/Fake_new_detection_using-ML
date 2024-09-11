@@ -23,10 +23,10 @@ def stemming(text):
    stemmed_text=' '.join(stemmed_text)
    return stemmed_text  
 
-model=pickle.load(open("C:/Users/cheta/Downloads/model1.pkl", 'rb'))
-model2=pickle.load(open("C:/Users/cheta/Downloads/model2.pkl", 'rb'))
-model3=pickle.load(open("C:/Users/cheta/Downloads/model_nb.pkl", 'rb'))
-vectorizer= pickle.load(open("C:/Users/cheta/Downloads/vectorizer_2.pkl", "rb"))
+model=pickle.load(open("model1.pkl", 'rb'))
+model2=pickle.load(open("model2.pkl", 'rb'))
+model3=pickle.load(open("model_nb.pkl", 'rb'))
+vectorizer= pickle.load(open("vectorizer_2.pkl", "rb"))
 
 
 
