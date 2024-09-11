@@ -13,6 +13,7 @@ from sklearn.metrics import accuracy_score
 import streamlit as st
 
 import nltk
+nltk.download('stopwords')
 
 port_stem=PorterStemmer()
 def stemming(text):
