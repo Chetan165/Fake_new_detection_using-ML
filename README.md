@@ -4,7 +4,7 @@
 Truth Matrix is a robust AI-ML model for detecting fake news 📉, trained on a comprehensive dataset of global 🌍 and Indian 🇮🇳 news articles. It leverages a combination of XGBoost 📈, logistic regression 🔍, and Naive Bayes 📊, predicting based majority voting. By analyzing text features with a TF-IDF vectorizer 🧩, it provides reliable classification of news articles to help counteract misinformation 🚫📰.
 
 
-## Team
+## Team-Codex
 
 Chetan Sharma : Team Lead and ML developer  
 Email : chetan.sharma162004@gmail.com
