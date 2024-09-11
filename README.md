@@ -30,7 +30,7 @@ Checkout the ppt for better understanding : [link comes here]
 ## Dataset 
 
 The dataset contains 24,529 news articles with an average word count of 75
-[Download the dataset here](https://drive.google.com/drive/folders/1ZkP59nvC50pb241gLSIgGGf_615TQM0u?usp=sharing)
+[(Download the dataset from here)](https://drive.google.com/drive/folders/1ZkP59nvC50pb241gLSIgGGf_615TQM0u?usp=sharing)
 
 ### Dataset Pre-Processing
 
