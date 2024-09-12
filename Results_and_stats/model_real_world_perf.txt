@@ -49,6 +49,8 @@ Global Times
 
 PREDICTION: REAL    score:4/4
 
+
+
 news 5)
  
         NASA discovers Earth’s third energy field called ‘Polar wind’ after 60 years of search
@@ -62,6 +64,8 @@ The team of scientists made the discovery based on the observation from a Nasa s
 The Endurance mission revealed that hydrogen ions, which are in abundance in the polar wind, are pushed into space by an electric field that is 10.06 times stronger than gravity. The study also showed that the ambipolar field increases the ionosphere’s density by 271 per cent, essentially keeping it denser at greater heights.
 
 PREDICTION: FAKE       score: 4/5
+
+
 
 
 News 6)   
@@ -131,6 +135,8 @@ Luckily, Berlin said, “none of the livestock was hurt, but it was big enough t
 PREDICTION: REAL    score:5/6
 
 
+
+
 News 7)
 
 
@@ -158,6 +164,8 @@ Antonia Hernandez, a study participant who lives in Pierson, said she often worr
 PREDICTION: REAL     score:6/7
 
 
+
+
 News 8)
 
 
@@ -174,6 +182,9 @@ Starliner has previously completed a successful uncrewed entry and landing durin
 
 
 PREDICTION:REAL    score:7/8
+
+
+
 
 News 9)
 
@@ -206,6 +217,9 @@ Although smoke from Canada’s wildfires this season has not had as significant 
 “​Monitoring of this year’s wildfires are showing that, after 2023, 2024 is already the second highest fire year in the past two decades for Canada in terms of the estimated emissions,” Parrington said in an email. 
 
 PREDICTION: REAL    score 8/9
+
+
+
 
 News 10)
 
