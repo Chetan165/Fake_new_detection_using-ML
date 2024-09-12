@@ -144,6 +144,8 @@ Logistic Regression Learning Curve:<br>
 ![download](https://github.com/user-attachments/assets/14c3954c-5061-41fc-890f-339bc953a8f0)<br>
 Feature Importances of XGBOOST:<br>
 ![image](https://github.com/user-attachments/assets/8a44765d-4a63-40c7-92b2-0600ddae0174)<br>
+Real World Performance of our Different Implementations:<br>
+![newplot](https://github.com/user-attachments/assets/4646bb7a-7c11-426b-b5c3-817f527bd129)<br>
 
 ## Video Explanation 
 
