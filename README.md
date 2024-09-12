@@ -110,15 +110,15 @@ Word Cloud:<br>
 
 ### Brief analysis
 
-Train Data accuracy:-
-1)Logistics regression : 98.68%
-2)XgBoost: 99.25%
-3)Naive Bayes: 97.78%
+Train Data accuracy:-<br>
+1)Logistics regression : 98.68%<br>
+2)XgBoost: 99.25%<br>
+3)Naive Bayes: 97.78%<br>
 
-Test Data accuracy:-
-1)Logistics regression : 97.92%
-2)XgBoost: 98.73%
-3)Naive Bayes: 96.35%
+Test Data accuracy:-<br>
+1)Logistics regression : 97.92%<br>
+2)XgBoost: 98.73%<br>
+3)Naive Bayes: 96.35%<br>
 
 Custom Test:-
 We performed a test consisting of 15 different news articles, and the results for each approach are as follows:<br>
