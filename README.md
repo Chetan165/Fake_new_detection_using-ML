@@ -148,8 +148,7 @@ Real World Performance of our Different Implementations:<br>
 ![newplot](https://github.com/user-attachments/assets/4646bb7a-7c11-426b-b5c3-817f527bd129)<br>
 
 ## Video Explanation 
-
-(Drag and drop the video file where you detect fake news)
+[Video Explaination](https://youtu.be/thIzLxD-sOs)<br>
 ## Disclaimer
 
 This model is trained and tested for recognizing certain words which may indicate that the news is fake and doesn't track the context and the current affairs.
