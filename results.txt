@@ -1,5 +1,5 @@
 test(small-5 sample size)
-Logistics+XG=85%
+Logistics+XG=80%
 Logistics+XG+NB=100%
 LG=60%
 
