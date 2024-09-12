@@ -1,7 +1,7 @@
 test(small-5 sample size)
-Logistics+XG=75%
+Logistics+XG=85%
 Logistics+XG+NB=100%
-LG=50%
+LG=60%
 
 test(large-10 sample size)
 Logistics+XG=80%
