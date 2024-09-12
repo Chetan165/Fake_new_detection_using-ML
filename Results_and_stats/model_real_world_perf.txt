@@ -1,0 +1,220 @@
+Model test(LR+XG+Naive_bayes):
+
+
+news 1)
+              on December 21, 2012, the world as we know it would end. Some predicted that we’d be wiped out by a natural disaster like a giant tidal wave, an Earth-wide earthquake or a tremendous volcanic eruption. Others believed that on that day in December, the Earth would collide with a mysterious “Planet X,” causing magnetic pole shifts, gravitational reversals or a black hole so big that our solar system would simply disappear. What’s more, believers said that this news was not really news at all; on the contrary, they argued, we have known about the coming apocalypse since the ancient Maya predicted and recorded it on their Long Count calendar more than 2,200 years ago.
+
+prediction: FAKE   score:1/1
+
+news 2)
+           A viral video showing individuals removing a flag from a government office and replacing it with another, speculated to be the Kangleipak or Salai Taret flag, has sparked widespread criticism on social media. Initial reports suggested the Indian tricolour was taken down.
+
+The incident occurred at the Deputy Commissioner’s office in Thoubal district, where the miscreants were seen replacing a flag with a seven-coloured one, captured by onlookers who cheered during the act.
+
+prediction: FAKE   score 2/2
+
+news 3)
+         If you wake up with a backache, it could be because you went to bed right after eating, according to Sadhguru Jaggi Vasudev. “One of the reasons why you may be having backache when you get up is you are going to bed with a full stomach. Your stomach bag is full, and you go and lie down. The pressure falls on the spine. And it also doesn’t allow many organs to function,” said Sadhguru.
+
+Praising the traditional practice of eating before sunset in an Instagram video, he said, “There are also other reasons for it (backache) but at least there are three to four hours before you hit the bed. That way, there will be no backache.”
+
+prediction:FAKE    score 3/3
+
+
+news 4)
+
+        There has been a breakthrough for the Huanliu-3 (HL-3) tokamak, also known as China's next-generation "artificial sun," with researchers discovering an advanced magnetic field structure, a world-first achievement and key step toward enhancing the control capacity of nuclear fusion devices, China Media Group reported on Thursday.
+
+The discovery marks the latest outcome of the first round of international joint experiments for the project, which opened to the world for the first time at the end of last year, aiming to enhance China's global influence in nuclear technology and boost international cooperation in dealing with a global energy crisis.
+
+The experiment involved 17 globally renowned research institutes and universities, such as the French Alternative Energies and Atomic Energy Commission as well as Kyoto University in Japan, representing the first international achievement in developing an advanced magnetic field structure.
+
+The HL-3 tokamak is a large-scale scientific facility for controlled nuclear fusion independently designed and developed by China. It is also known as the next-generation "artificial sun" due to its method of generating energy similar to the sun. It has become China's largest and highest parameter advanced tokamak device after being completed by the China National Nuclear Corp (CNNC) in 2020.
+
+Controlled nuclear fusion is a cutting-edge technology with outstanding advantages such as abundant access to resources, being environmentally friendly, and safety. It is considered one of the key ways to solve global energy and environmental problems and promote global sustainable development.
+
+In August 2023, the HL-3 tokamak achieved a successful high-confinement operation under a plasma current of 1 million amperes, marking a significant advance in the operational capabilities of China's magnetic confinement nuclear fusion devices, and placing the country at the forefront of the world.
+
+Observers said that the object and its fresh achievement signal that China has opened a new chapter in the global joint exploration of nuclear energy, advancing toward a bright low-carbon future to shore up the country's sustainable development.
+
+China has made significant efforts to boost international cooperation for nuclear energy adoption. In May, CNNC and Electricité de France jointly released a prospective study bluebook to deepen cooperation in new-energy exploitation, marking a new historical starting point in bilateral nuclear energy cooperation.
+
+China has also been actively involved in the construction of the world's largest "artificial sun," known as the International Thermonuclear Experimental Reactor (ITER) project, a collaboration between China and France.
+
+On February 29, the ITER signed a new contract for the assembly of a vacuum chamber module with the CNNC. China will be responsible for installing the core equipment, bringing its expertise and strength to the ITER project in collaboration with France.
+
+Due to the similarity in experimental principles, the operation of HL-3 tokamak has provided a platform for China to address key technical challenges faced by ITER and to enhance its research and development capabilities, as well as promote talent development.
+
+Global Times
+
+PREDICTION: REAL    score:4/4
+
+news 5)
+ 
+        NASA discovers Earth’s third energy field called ‘Polar wind’ after 60 years of search
+The newly discovered energy field is as crucial as gravity and magnetic fields to Earth.Earth’s third energy field known as ‘Polar Wind’, which only existed in theory so far, has now been discovered by Nasa after a search that has lasted 60 years.
+
+Glyn Collinson, principal investigator of Endurance at Nasa’s Goddard Space Flight Centre in Maryland, in a video released by Nasa, said that this field is fundamental to understanding the way our planet works. According to Collinson, the field has been there since the beginning alongside the other two energy fields – gravity and magnetic. The scientists said that although the field is weak, it is significant to Earth as it counters gravity and lifts the skies up.  
+
+According to the team of scientists, Polar winds have crucial answers about how Earth’s atmosphere evaporates rapidly above the north and south poles. They feel that this field of energy may have played a critical role in the evolution of our atmosphere’s upper-most layer. How did the scientists discover the field?
+The team of scientists made the discovery based on the observation from a Nasa suborbital rocket which was able to measure this planet-wide electric field. The measurements given by Nasa’s Endurance Mission confirmed the existence of this ambipolar field. According to Nasa, the observations revealed that this energy field has been driving atmospheric escape and shaping the ionosphere – a layer of the upper atmosphere. Collinson and his collaborators have been developing sensors for launch aboard the Endurance rocket mission since 2016. The team launched the suborbital rocket flight on May 11, 2022, from Svalbard, a Norwegian archipelago. “Svalbard is the only rocket range in the world where one can fly through the polar wind and make the measurements we needed,” Suzie Imber, a space physicist at the University of Leicester, UK, and co-author of the paper, was quoted as saying by nasa.gov.
+
+The Endurance mission revealed that hydrogen ions, which are in abundance in the polar wind, are pushed into space by an electric field that is 10.06 times stronger than gravity. The study also showed that the ambipolar field increases the ionosphere’s density by 271 per cent, essentially keeping it denser at greater heights.
+
+PREDICTION: FAKE       score: 4/5
+
+
+News 6)   
+
+
+      Hailstones may get bigger as the climate warms — bringing higher insurance costs
+Hail has caused higher damage costs in the U.S. this year than hurricanes and floods put together. Research suggests climate change will make hailstones larger.
+       The sudden, percussive crackle came as Barb Berlin was standing in the garage of her farmhouse near Inman, Nebraska.
+
+“I thought it was a gun,” she said.
+
+Then came a streak of white. She realized the sound wasn’t gunfire but hail.
+
+A fist-sized hailstone had pounded the tin roof on Berlin’s garage. Soon, others were leaving softball-shaped craters in the hood of her Ford Mustang, which was parked outside.
+
+“It was so loud and it was scary. I did a lot of praying,” Berlin said, adding that she worried for her livestock. “I’ve never been in hail like that before.” 
+
+Hail is a sneaky hazard. This year, amid a spring and summer of extreme weather, hail — not hurricanes, floods or tornadoes — has caused the highest damage costs in the U.S., according to Gallagher Re, a global reinsurance firm that tracks such data. 
+
+And research suggests that large hailstones like the ones Berlin saw Monday will become more common as Earth warms. That was the finding of a study published last month, which suggested that the likelihood of smaller, less-damaging hailstones will decrease. 
+
+The study by Northern Illinois University researchers projects that the frequency of hailstones roughly 1½ inches or larger will rise by 15% to 75%, depending on how much greenhouse gas pollution humans emit.
+
+Hail is generated when thunderstorms circulate rain drops into the upper layers of the atmosphere. It typically forms where temperatures are between minus 22 degrees and 14 degrees Fahrenheit. The reason climate change affects hail is that higher temperatures provide more energy to create upward pushes of air within thunderstorms. 
+
+“We see stronger updrafts in the future because we have more atmospheric instability,” said Victor Gensini, a lead author of the study and professor of meteorology at Northern Illinois University. 
+
+These powerful updrafts allow hailstones to remain longer in sections of a storm that are favorable for hail formation, the research says. That, in turn, will lead them to accumulate more ice before they get too heavy and fall to the ground. 
+
+“Imagine taking a hair dryer and turning it on end and pointing it up at the sky and trying to balance a ping pong ball,” Gensini said, explaining how an updraft lifts a hailstone. “Now try to balance a baseball or a grapefruit. You’re gonna need a much stronger updraft to balance the downward force of that.” 
+
+The prospect of bigger hail, which is already one of the costliest weather hazards in the U.S. and a key factor driving up insurance premiums, will only intensify those issues.
+
+“Thunderstorm losses are a really, really big piece of why premiums continue to go up and why there’s this massive reassessment of risk by not just the insurance industry, but banks and the federal government,” said Steve Bowen, chief science officer for Gallagher Re.
+
+He added that hail “accounts for roughly 50 to 80% of insured claims filed from thunderstorm-related losses.” 
+
+So far this year in the U.S., thunderstorms have been responsible for about $61 billion in economic losses, according to Bowen. Hail was likely responsible for between $31 billion and $49 billion of that total. In the same period, tropical storms and flooding together have accounted for $14 billion in losses.The atmospheric dynamics involved in hailstorms are complicated and can be difficult to study, but advances in climate and weather modeling now allow scientists to create complex simulations that model thunderstorms and their microphysics, including hail size. 
+
+For their study, Gensini and his fellow researchers took future climate projections and plugged them into a weather model, not unlike what television forecasters use. 
+
+The study predicts fewer days where hail falls in the Plains states, but more severe hail overall, and in other regions. 
+
+Although a warmer atmosphere allows for more melting as hail falls to the ground, that dynamic mostly affects smaller hailstones, which descend more slowly. 
+
+The terminal velocity of a baseball-sized piece of hail is roughly 100 mph, according to Harold Brooks, a senior research scientist at the National Oceanic and Atmospheric Administration’s National Severe Storms Laboratory, who was not involved in the recent study. By contrast, a 1-inch piece of hail falls at 20 to 30 mph.  
+
+He said the study’s findings track with previous work. A 2017 study used a different modeling approach and predicted larger average hail size but fewer days of hail. Researchers in Italy, meanwhile, evaluated more than a million dents from hail from 1988 to 2016 and suggested that storms were producing fewer and larger hailstones.
+
+“It makes sense. We’ve had some hints from observations,” Brooks said. “The basic physical mechanisms they’re talking about, I don’t think are particularly surprising at all.” 
+
+Even though hail causes more monetary damage annually than tornadoes, on average, research on the former had stalled until recent advances in radar and weather modeling.
+
+“It just doesn’t seem as sexy as tornadoes,” Brooks said.
+
+He added that key questions about hail remain: “Can we learn enough about how hail forms, and about what the distribution of hail sizes during a storm are to make actionable forecasts several hours in advance?”
+
+Next year, Gensini and scientists from several other institutions are planning the first U.S. field study of hail done since the 1970s. The researchers will chase hailstorms the way some do tornadoes and try to deploy mobile Doppler radars and other instruments to capture the storms’ inner physics.
+
+After the Monday storm in Nebraska, Berlin said she spotted plenty of roofing company trucks rolling through town. An insurance adjuster has already assessed her roof for damage. Her Mustang suffered about $3,500 in damage. 
+
+With more notice, she said, she would have shepherded her animals to safety and put her car into the garage — she did not get a hail warning in the forecast, and only received a weather app alert after the storm passed. 
+
+Luckily, Berlin said, “none of the livestock was hurt, but it was big enough that it could have done some major damage.”
+
+
+PREDICTION: REAL    score:5/6
+
+
+News 7)
+
+
+        Experimental sensors aim to detect early signs of heatstroke and warn farmworkers
+An NIH-sponsored study is developing wearable biosensors that measure workers' vital signs and activity levels. Eventually, the system could alert people if they're in danger due to heat.Outdoor workers face the highest risk from extreme heat, which can turn deadly in a matter of minutes. So researchers have begun experimenting with wearable sensors that can monitor a worker’s vital signs and warn them if they start exhibiting early signs of heat stroke. 
+
+In Pierson, Florida, where temperatures can soar into the 90s before noon, workers on a fern farm have been equipped with experimental biopatches as part of a study sponsored by the National Institutes of Health. The patches measure the workers’ vital signs and skin hydration, and include a gyroscope to monitor continuous movement. 
+
+Scientists from Emory University and Georgia Tech are collecting the data, which is then fed into an artificial intelligence algorithm. The eventual goal is for the AI to predict when a worker could be struck by heat illness and send alerts to their phone before that happens. For now, though, the researchers are still analyzing the data, which they plan to publish in studies next year.
+
+“There’s this notion that working out in the field, it’s hot. It’s just the way it is,” said Roxana Chicas, a nurse-researcher at Emory who has been overseeing the biopatch data collection. “I think that with research, creativity, we can find ways to protect the workers while they’re working in the field.”
+
+An average of 34 workers died of heat exposure annually from 1992 to 2022, according to the Environmental Protection Agency.  Farmworkers are 35 times more likely to die from it than other workers. But heat protections for laborers have thus far been left up to states. In California, for example, employers must provide training, water and shade if temperatures exceed 80 degrees Fahrenheit, but many states lack such rules. 
+
+For their research, Chicas and her team partnered with the Farmworker Association of Florida to recruit participants. They aimed to outfit 100 workers with the biopatches for the four-year study, but said they were surprised by how many people wanted to take part, so wound up with 166.
+
+The participating workers come in before dawn to get their patches and have their vitals measured. Then it’s off to the fields before the hottest and deadliest hours of the day. 
+
+“I hope the research will help improve working conditions,” Juan Perez, one of the study participants, said in Spanish. He added that he has been working in fern fields for 20 years and would like more breaks and better pay. 
+
+Other farmworkers, too, said they hope the research shows how strenuous their job can be. 
+
+Antonia Hernandez, a study participant who lives in Pierson, said she often worries about the heat risk that she and her daughter face; both work in the fern fields.
+
+PREDICTION: REAL     score:6/7
+
+
+News 8)
+
+
+      Boeing's uncrewed Starliner capsule could return to Earth by late next week, NASA says
+Last week, NASA said its two astronauts who flew to the space station in the Starliner will return to Earth in a SpaceX vehicle early next year.NASA will proceed with the undocking of the uncrewed Boeing Starliner capsule not before Sept. 6, the space agency said on Thursday after concluding a review.
+
+Last week, the space agency said its two astronauts who flew to the International Space Station (ISS) in the Starliner in June will return to Earth in a SpaceX vehicle early next year.
+
+Starliner’s propulsion system issues were deemed too risky for crewed return after the capsule experienced a series of glitches within the first 24 hours of its flight to the ISS.The journey back to Earth for the Starliner is expected to take approximately six hours from undocking to landing at White Sands Space Harbor in New Mexico, NASA said in a blog post.
+
+Ground teams will remotely guide the spacecraft through necessary maneuvers for a safe undocking, re-entry and parachute-assisted landing in southwestern United States.
+
+Starliner has previously completed a successful uncrewed entry and landing during two orbital flight tests, the agency said
+
+
+PREDICTION:REAL    score:7/8
+
+News 9)
+
+   Canada's wildfires last year emitted more carbon than the annual total of all but 3 countries
+A new study highlights the worrisome possibility that Canada’s forests might not serve as reliable long-term sinks for carbon.
+So many trees burned during Canada’s historic wildfire season last year that the forest emitted more carbon than most countries’ fossil fuel emissions for 2022, according to research published Wednesday. 
+
+“Only China, the U.S. and India release more on an annual basis than we saw from these fires,” said Brendan Byrne, a carbon cycle scientist at NASA’s Jet Propulsion Laboratory in California and the lead author of the new study. “These fire emissions were unprecedented in the Canadian record.”
+
+Byrne’s research, published in the journal Nature, estimates that the emissions from the fires — around 647 megatons of carbon — were more than four times Canada’s annual output from fossil fuel use. Nearly 4% of Canada’s forests burned in 2023, the study says. 
+
+Canada’s forests have typically absorbed more carbon than they’ve released. But the new findings highlight the unsettling possibility that forests we’ve relied upon as sinks to absorb carbon are increasingly doing the opposite: adding to emissions that are already too high. It raises questions about how reliable these carbon sinks will be in the future as wildfire patterns shift. 
+
+“2023 was really this exceptional year for heat drought and fire emissions,” Byrne said. “Around the 2050s, these are projected to be kind of normal summer temperatures for Canadian forests, and that suggests that we may be moving towards conditions where fire events like these become much more common, and that could potentially have big impacts on how much carbon these forests are able to store.”
+
+Last year, more than 232,000 people were evacuated due to wildfires in Canada, and the smoke caused the worst season of smoke exposure in modern U.S. history. Cities like New York were overcome by air pollution.
+To estimate the fires’ total carbon emissions for the season, researchers used satellite data evaluating how much light is absorbed by carbon in the atmosphere. They also analyzed the summer’s weather and found that Canada dealt with exceptional drought and its hottest summer since at least 1980. Scientists expect such conditions to become more common. 
+
+When human activity causes carbon to be emitted into the atmosphere, about half of it stays there, while a quarter is absorbed by the ocean. The rest is absorbed by the land biosphere — the planet’s trees and other plants. 
+“The concern here is that if you get changes in the frequency and intensity of fires, then maybe that won’t happen as much,” Byrne said. “How these forests change in their ability to store carbon has pretty significant implications for how much carbon we can emit globally.” 
+
+Canada’s timberlands represent about 8.5% of the globe’s forests, according to the new study. 
+
+The researchers' emissions estimates roughly correspond to other scientists’ analyses of the 2023 fires in Canada. The Copernicus Atmosphere Monitoring Service, a European Union satellite observation program, estimated last year that the blazes produced about 480 megatons of carbon, based on an analysis that used a different method. 
+
+Mark Parrington, a senior scientist at Copernicus, said the new research produced similar results to Copernicus’ study and included additional satellite information that helps reduce uncertainty. 
+
+Although smoke from Canada’s wildfires this season has not had as significant an impact on the U.S. as last year, Parrington said they have again been emitting high amounts of carbon. 
+
+“​Monitoring of this year’s wildfires are showing that, after 2023, 2024 is already the second highest fire year in the past two decades for Canada in terms of the estimated emissions,” Parrington said in an email. 
+
+PREDICTION: REAL    score 8/9
+
+News 10)
+
+ In June 2020, Baba Ramdev claimed, “We have prepared the first Ayurvedic-clinically controlled, research, evidence, and trial-based medicine for COVID-19. We conducted a clinical case study and clinical controlled trial, and found that 69% of the patients recovered within three days and 100% recovered within seven days.”
+
+PREDICTION: FAKE    score 9/10
+
+
+
+accuracy: 90%
+
+
