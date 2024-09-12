@@ -47,7 +47,7 @@ def manual(user_input):
 
 def main():
   import streamlit as st
-  st.set_page_config(page_title="The Truth Matrix", page_icon="📰", layout="wide")
+  st.set_page_config(page_title="The Truth Matrix", page_icon="🔍", layout="wide")
   st.title("📰 Welcome to The Truth Matrix")
   st.markdown("""
   ### 🔍 How Does This Work?
