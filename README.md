@@ -100,8 +100,6 @@ Word Cloud:<br>
      
 ## Workflow
 
-Following is the example of how you can design your workflow :
-
 1. Data Preparation
 2. Pre Processing
 3. Vectorization
@@ -112,11 +110,21 @@ Following is the example of how you can design your workflow :
 
 ### Brief analysis
 
-Project was intially using Logistic regression model which showed an accuracy of (98%) on trained and (97%) on the tested data.
+Train Data accuracy:-
+1)Logistics regression : 98.68%
+2)XgBoost: 99.25%
+3)Naive Bayes: 97.78%
 
-Xgboost was used to enhance the accuracy and an accuracy of (99%) was achieved on the trained and (98%) on the tested dataset.
+Test Data accuracy:-
+1)Logistics regression : 97.92%
+2)XgBoost: 98.73%
+3)Naive Bayes: 96.35%
 
-The conclusion was that including two models and comparing them to output the most accurate label was the main goal of our model.
+Custom Test:-
+We performed a test consisting of 15 different news articles, and the results for each approach are as follows:
+Logistics + XGBoost: 12/15 correct (80% accurate)
+Logistics + XGBoost + NB: 14/15 correct (93% accurate)
+Logistic Regression: 12/15 correct (80% accurate)
 
 ## Results
 Let's see a demo on our website with a fake sample article:<br>
