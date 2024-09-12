@@ -21,7 +21,7 @@ Email : prathamvarma178@gmail.com
 
 ## Model Deployment
 
-**Checkout our Website** 🌐 [here](https://fakenewdetectionusing-ml-me2evi96sebrcvuqmpbmvp.streamlit.app/)<br>
+**Checkout our Website** 🌐 [here](https://truth-matrix-nvjg5tnsvmjv9qrumqmqux.streamlit.app/)<br>
 
 -Checkout Google Collab for quick analysis:<br>-[Open file on Colab 📂](https://colab.research.google.com/drive/1DLYD47gZS3bvb-T1Lmpb4M_zGWHgK_az?usp=sharing)<br>
 -[Click to Open Statistics of our Model 📈](https://colab.research.google.com/drive/1_7Tu8JmxeUVacG1OP6e_-p54-lE9bvIV?usp=sharing)                               
@@ -121,10 +121,10 @@ Test Data accuracy:-
 3)Naive Bayes: 96.35%
 
 Custom Test:-
-We performed a test consisting of 15 different news articles, and the results for each approach are as follows:
-Logistics + XGBoost: 12/15 correct (80% accurate)
-Logistics + XGBoost + NB: 14/15 correct (93% accurate)
-Logistic Regression: 12/15 correct (80% accurate)
+We performed a test consisting of 15 different news articles, and the results for each approach are as follows:<br>
+Logistics + XGBoost: 12/15 correct (80% accurate)<br>
+Logistics + XGBoost + NB: 14/15 correct (93% accurate)<br>
+Logistic Regression: 12/15 correct (80% accurate)<br>
 
 ## Results
 Let's see a demo on our website with a fake sample article:<br>
