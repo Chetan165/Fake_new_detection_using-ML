@@ -26,7 +26,7 @@ Email : prathamvarma178@gmail.com
 -Checkout Google Collab for quick analysis:<br>-[Open file on Colab 📂](https://colab.research.google.com/drive/1DLYD47gZS3bvb-T1Lmpb4M_zGWHgK_az?usp=sharing)<br>
 -[Click to Open Statistics of our Model 📈](https://colab.research.google.com/drive/1_7Tu8JmxeUVacG1OP6e_-p54-lE9bvIV?usp=sharing)                               
 -[Click to view Performance of different implementations 📊](https://colab.research.google.com/drive/1r7xvbge1FC3lmPizH9Q7CdFoFBbgwURH?usp=sharing)<br><br>
--Checkout the ppt for better understanding : [link comes here]
+-Checkout the ppt for better understanding : [[Click Here](https://tome.app/codex-783/truth-matrix-cm0zn3vvz00yyn820audqfxdx)]
 
 ## Dataset 
 
